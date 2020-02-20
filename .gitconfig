@@ -1,0 +1,13 @@
+[user]
+	email = apopa57@gmail.com
+	name = Popa Alexandru
+
+[alias]
+	lg = log --all --decorate --graph --oneline
+	s = status
+	ls = ls-files
+	co = checkout
+[push]
+	default = simple
+[core]
+	excludesfile = ~/.gitignore
